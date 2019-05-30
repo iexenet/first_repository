@@ -32,3 +32,5 @@ _You **can** combine them_
 ##　自己紹介　##
 
 ##　今日のタスク　##
+- [x] This is a complete item
+- [ ] This is an incomplete item
