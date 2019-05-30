@@ -30,6 +30,7 @@ _You **can** combine them_
    1. Item 3b
 
 ##　自己紹介　##
+フールネーム：IEXENET
 
 ##　今日のタスク　##
 - [x] This is a complete item
